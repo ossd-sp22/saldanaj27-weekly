@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
 | Apr 6  | [wiki edit](https://en.wikipedia.org/wiki/Special:Contributions/Saldanaj27)  |  Wikipedia   |   I added multiple contributions to the wiki of a former head coach of the USC football team. I was trying to figure out how to add hyper links which is why there are multiple small contributions to his wiki.    |
-|     |     |     |      |
+| Apr 9  | [wiki edit](https://en.wikipedia.org/wiki/Special:Contributions/Saldanaj27)  |  Wikipedia   |   I added a sentence about the 2021 USC football season. I wrote it but then realized I wasn't logged in so I made a minor edit to the sentence I added.  |
